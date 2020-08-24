@@ -1,0 +1,18 @@
+.docplannerheader{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.image{
+    width: 268px;
+    height: 33px;
+}
+.icon{
+    justify-content: center;
+}
+.paragraphs{
+    display: flex;
+}
+.countries{
+    display: flex;
+}
